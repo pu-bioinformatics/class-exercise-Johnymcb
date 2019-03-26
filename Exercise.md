@@ -27,4 +27,4 @@ Answer the following questions in a New Notebook
         ****
         *****
 ```
-8. Write a function that prints all the prime numbers between 0 and limit where limit is a parameter.
+10. Write a function that prints all the prime numbers between 0 and limit where limit is a parameter.
